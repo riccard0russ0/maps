@@ -13,6 +13,7 @@
    data-okviz-svg-copyright="Copyright of remote map"
    data-okviz-svg-author="Riccardo"
    data-okviz-svg-title="Remote Italy"
+   data-okviz-autofetch="true"
    >
  
   <path
