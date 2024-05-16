@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/riccard0russ0/maps/main/states/italy-linked-url.svg",
+        "name": "map1-italy",
+        "mapSelector": "economy"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/riccard0russ0/maps/main/sphere/level-1.svg",
+        "name": "map2-sphere",
+        "mapSelector": "regular"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/riccard0russ0/maps/main/Artboard%201%201.svg",
+        "name": "map3-all-visual",
+        "mapSelector": "regular"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/riccard0russ0/maps/main/states/italy-linked-url.svg",
+        "name": "map1-italy",
+        "mapSelector": "economy"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/riccard0russ0/maps/main/sphere/level-1.svg",
+        "name": "map2-sphere",
+        "mapSelector": "regular"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/riccard0russ0/maps/main/Artboard%201%201.svg",
+        "name": "map3-all-visual",
+        "mapSelector": "regular"
+    }
+]
